@@ -1,0 +1,27 @@
+{
+  "name": "github_practice-master",
+  "version": "1.0.0",
+  "description": "This project is a simple web calculator, use it to practice Github collaboration, testing and actions.",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HJ-OGH/Practice2_Session2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HJ-OGH/Practice2_Session2/issues"
+  },
+  "homepage": "https://github.com/HJ-OGH/Practice2_Session2#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
